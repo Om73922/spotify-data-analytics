@@ -30,4 +30,4 @@
 
 ## Sample Visualization (Change)
 (Insert 1–2 of your best plots here as PNGs with captions)
-![Top Genres](visuals/top_genres.png)
+![Top Danceable Genres](visuals/danceable_genres.png)
