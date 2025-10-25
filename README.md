@@ -31,7 +31,7 @@
 ## Sample Visualization 
 Top Danceable Genres
 
-<img src="visuals/danceable_genres.png" width="900">
+![Top Danceable Genres.](visuals/danceable_genres.png)
 
 Explicit songs show slightly higher average popularity
 
