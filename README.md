@@ -29,6 +29,9 @@
         jupyter notebook notebooks/spotify_analysis.ipynb
 
 ## Sample Visualization 
+Top Danceable Genres
 ![Top Danceable Genres](visuals/danceable_genres.png)
+Explicit songs show slightly higher average popularity
 ![Explicit songs show slightly higher average popularity.](visuals/explicit_vs_notExplicit.png)
-![Average Song Duration](visuals/song_duration.png)
+Average Song Duration
+![Average Song Duration](visuals/song_durartion.png)
