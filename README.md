@@ -14,12 +14,12 @@
 
 ## Key Insights 
 - ### 💥 Explicit songs show slightly higher average popularity.
-- ### ⚡ Optimal tempo range: 110-130 BPM for hit songs.
+- ### ⚡ Optimal tempo range: 120-140 BPM for hit songs.
 - ### 👑 Artists with consistent high average popularity (min 10 tracks) tend to dominate specific genres.
 
 ## How To Run
-- ### Clone Repo (Change)
-        git clone https://github.com/yourusername/spotify-data-analytics.git
+- ### Clone Repo 
+        git clone https://github.com/Om73922/spotify-data-analytics.git
         cd spotify-data-analytics
 
 - ### install dependencies
@@ -28,6 +28,7 @@
 - ### open notebook
         jupyter notebook notebooks/spotify_analysis.ipynb
 
-## Sample Visualization (Change)
-(Insert 1–2 of your best plots here as PNGs with captions)
+## Sample Visualization 
 ![Top Danceable Genres](visuals/danceable_genres.png)
+![Explicit songs show slightly higher average popularity.](visuals/explicit_vs_notExplicit.png)
+![Average Song Duration](visuals/song_duration.png)
